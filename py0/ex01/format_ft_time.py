@@ -10,7 +10,7 @@ unix_start = "January 1, 1970"
 
 print(
     "Seconds since",
-    unix_start, ":",
+    unix_start + ":",
     seconds_full, "or",
     seconds_scientific, "in scientific notation")
 

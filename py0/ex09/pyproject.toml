@@ -8,7 +8,6 @@ version = "0.0.1"
 description = "A sample test package"
 readme = "README.md"
 license = "MIT"
-author = "ecarvalh"
 authors = [
 	{ name = "ecarvalh", email = "ecarvalh@student.42sp.org.br" }
 ]
